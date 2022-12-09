@@ -16,11 +16,12 @@ public class ActionsJ {
         WebDriverWait expwait = new WebDriverWait(driver, Duration.ofSeconds(4));
         driver.manage().deleteAllCookies();
         driver.manage().window().maximize();
-        driver.get("https://www.amazon.in/");
+        driver.get("https:/" +
+                "/www.amazon.in/");
         Actions m = new Actions(driver);
         //build and perform are used to invoke and perform action
         m.moveToElement(driver.findElement(By.xpath("//input[@id = 'twotabsearchtextbox']"))).click().keyDown(Keys.SHIFT).sendKeys("Hello").doubleClick().build().perform();
         m.moveToElement(driver.findElement(By.xpath("//a[@id = 'nav-link-accountList']"))).build().perform();
-// this is a comment
+// This is a test run
     }
 }
