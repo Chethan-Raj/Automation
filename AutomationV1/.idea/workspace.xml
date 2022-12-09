@@ -4,41 +4,103 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3f85d2b-5b0a-4664-89d4-fb4d8091d81c" name="Changes" comment="" />
+    <list default="true" id="c3f85d2b-5b0a-4664-89d4-fb4d8091d81c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ActionsJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/ActionsJ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Alerts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Assignment1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignment2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Assignment2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignment3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Assignment3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignment4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Assignment4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignment5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Assignment5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignment6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Assignment6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignment7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Assignment7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignment7_examplecode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Assignment7_examplecode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignment8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Assignment8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AutoSuggestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/AutoSuggestions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BrokenLinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/BrokenLinks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CalendarV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/CalendarV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Calender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/CheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DragAndDropFrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/DragAndDropFrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DynamicUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/DynamicUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/E2E.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/E2E.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/E2E_Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/E2E_Scope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FiltersGreenKart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/FiltersGreenKart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FluentWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/FluentWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GreenKart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/GreenKart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/JavaPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaStreamsTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/JavaStreamsTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Locators_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Locators_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Locators_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Locators_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PassengerCountDropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/PassengerCountDropdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RandomTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/RandomTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SSLcertification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/SSLcertification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Screenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Screenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Scroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Scroll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StaticDropDowns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/StaticDropDowns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Swiggy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Swiggy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Waits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Waits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTableSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/WebTableSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WindowHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/WindowHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Window_Activities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/Window_Activities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/browserCapabilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AR/browserCapabilities.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="2IgWcJnRfeTqzR1epVOf0RNjUsF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/905953/IdeaProjects/Automation/AutomationV1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Chethan Raj P N\IdeaProjects\Automation\AutomationV1\src\main\java\AR" />
+      <recent name="C:\Users\905953\IdeaProjects\Automation\AutomationV1\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ActionsJ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ActionsJ" />
+      <module name="AutomationV1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ActionsJ" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,5 +111,26 @@
       <updated>1670603787006</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
